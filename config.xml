@@ -4,11 +4,10 @@
 	<description> 
 		ProPsicologia
 	</description>
-	<author href="http://www.jedicrm.com.br" email="wsantana@jedicrm.com.br">Willi Santana
-	</author>
-	<icon src="icon.png" />
+	<author href="http://www.jedicrm.com.br" email="wsantana@jedicrm.com.br">Willi Santana </author>
+	<icon src="icon.png"/>
 	<plugin name="cordova-plugin-splashscreen" />
 	<splash src="splash.png" />
 	<preference name="orientation" value="portrait" />
-	<access origin="http://www.ProPsicologia.com.br" />
+	<access origin="http://www.propsicologia.com.br"  launch-external="yes"/>
 </widget>
