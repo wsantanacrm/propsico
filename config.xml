@@ -9,5 +9,6 @@
 	<plugin name="cordova-plugin-splashscreen" />
 	<splash src="splash.png" />
 	<preference name="orientation" value="portrait" />
-	<access origin="http://www.propsicologia.com.br"  launch-external="yes"/>
+	<content src="http://www.propsicologia.com.br" />
+	<access origin="*"/>
 </widget>
